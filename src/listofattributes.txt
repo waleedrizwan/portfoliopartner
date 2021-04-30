@@ -1,0 +1,74 @@
+// ask: 122.57
+// askSize: 8
+// averageDailyVolume3Month: 110690081
+// averageDailyVolume10Day: 122757633
+// bid: 122.54
+// bidSize: 29
+// bookValue: 3.936
+// currency: "USD"
+// displayName: "Apple"-
+// dividendDate: 1613001600
+// earningsTimestamp: 1611765000
+// earningsTimestampEnd: 1620043200
+// earningsTimestampStart: 1619607540
+// epsCurrentYear: 4.45
+// epsForward: 4.68
+// epsTrailingTwelveMonths: 3.687
+// esgPopulated: false
+// exchange: "NMS"
+// exchangeDataDelayedBy: 0
+// exchangeTimezoneName: "America/New_York"
+// exchangeTimezoneShortName: "EDT"
+// fiftyDayAverage: 127.264854
+// fiftyDayAverageChange: -4.7248535
+// fiftyDayAverageChangePercent: -0.037126146
+// fiftyTwoWeekHigh: 145.09
+// fiftyTwoWeekHighChange: -22.549995
+// fiftyTwoWeekHighChangePercent: -0.15542075
+// fiftyTwoWeekLow: 58.575
+// fiftyTwoWeekLowChange: 63.965
+// fiftyTwoWeekLowChangePercent: 1.0920187
+// fiftyTwoWeekRange: "58.575 - 145.09"
+// financialCurrency: "USD"
+// firstTradeDateMilliseconds: 345479400000
+// forwardPE: 26.183762
+// fullExchangeName: "NasdaqGS"
+// gmtOffSetMilliseconds: -14400000
+// language: "en-US"
+// longName: "Apple Inc."
+// market: "us_market"
+// marketCap: 2057213837312
+// marketState: "POST"
+// messageBoardId: "finmb_24937"
+// postMarketChange: 0.08000183
+// postMarketChangePercent: 0.0652863
+// postMarketPrice: 122.62
+// postMarketTime: 1616532650
+// priceEpsCurrentYear: 27.53708
+// priceHint: 2
+// priceToBook: 31.13313
+// quoteSourceName: "Nasdaq Real Time Price"
+// quoteType: "EQUITY"
+// region: "US"
+// regularMarketChange: -0.8499985
+// regularMarketChangePercent: -0.68887144
+// regularMarketDayHigh: 124.24
+// regularMarketDayLow: 122.14
+// regularMarketDayRange: "122.14 - 124.24"
+// regularMarketOpen: 123.33
+// regularMarketPreviousClose: 123.39
+// regularMarketPrice: 122.54
+// regularMarketTime: 1616529603
+// regularMarketVolume: 93726645
+// sharesOutstanding: 16788100096
+// shortName: "Apple Inc."
+// sourceInterval: 15
+// symbol: "AAPL"
+// tradeable: false
+// trailingAnnualDividendRate: 0.807
+// trailingAnnualDividendYield: 0.006540238
+// trailingPE: 33.23569
+// triggerable: true
+// twoHundredDayAverage: 122.87603
+// twoHundredDayAverageChange: -0.33602905
+// twoHundredDayAverageChangePercent
