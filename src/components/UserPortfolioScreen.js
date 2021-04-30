@@ -252,9 +252,15 @@ const UserPortfolioScreen = (props) => {
               </Card.Body>
             </Card>
           </div>
-          <h1 className="text-center">
-            {totalPortfolioAmount <= 0 ? "Your Portfolio Is Empty" : null}
-          </h1>
+          <div className="text-center">
+            {totalPortfolioAmount <= 0 ? (
+              <div>
+                <br />
+                <br />
+                <h1>{"Your Portfolio Is Empty"}</h1>
+              </div>
+            ) : null}
+          </div>
           <div className="black">
             {isLoading ? (
               <div>
