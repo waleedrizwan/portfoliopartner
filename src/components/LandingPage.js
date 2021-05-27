@@ -1,13 +1,15 @@
 import { useHistory } from "react-router-dom";
 import GraphImg from "../img/svg/graphs.svg";
 import Button from "react-bootstrap/Button";
+import './LandingPage.css'
 
 const LandingPage = (props) => {
   const history = useHistory();
   return (
     <div
       className="center"
-      style={{ display: "flex", flexDirection: "column" }}
+      style={{ display: "flex", flexDirection: "column", zoom:'80%'}}
+      id="landing-page-container"
     >
       
       <div
@@ -21,7 +23,7 @@ const LandingPage = (props) => {
         <div style={{ marginRight: "auto" }}>
           <br />
           <h1 style={{ fontSize: "50px", fontWeight: "bold" }}>
-            Portfolio Partner
+           Welcome To Portfolio Partner
           </h1>
           <nav>
             <div>

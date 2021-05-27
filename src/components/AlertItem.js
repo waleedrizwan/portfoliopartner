@@ -14,8 +14,6 @@ const AlertItem = (props) => {
 
   const [showSure, setShowSure] = useState(false);
 
-  console.log(typeof priceLimit);
-
   return (
     <div>
       <Card style={{ width: "18rem" }}>

@@ -43,9 +43,7 @@ const UserAlertsPage = (props) => {
   };
 
   const stockExists = () => {
-    console.log("stockName", stockName, "typeof", typeof stockName);
-    console.log("alertPrice", alertPrice, "typeof", typeof alertPrice);
-
+    
     fetch(
       `https://yahoo-finance-low-latency.p.rapidapi.com/v6/finance/quote?symbols=${stockName}`,
       {
