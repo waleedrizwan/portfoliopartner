@@ -40,6 +40,8 @@ function App() {
       <Router>
         <NewNavBar />
         <br />
+        <br />
+        <br />
         <Switch>
           <Route exact path="/">
             <Redirect to="/home" />
