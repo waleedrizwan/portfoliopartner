@@ -26,7 +26,7 @@ const NewNavBar = (props) => {
 
   return (
     <div>
-      <Navbar bg="dark" variant="dark">
+      <Navbar bg="dark" variant="dark" fixed='top' >
         <Navbar.Brand>Portfolio Partner</Navbar.Brand>
         <Nav className="mr-auto">
           <Nav.Link onClick={() => history.push("/home")}> Home </Nav.Link>
